@@ -31,20 +31,4 @@ class Car():
 
 
 
-
-# my_volt = ElectricCar("ford", "bolt", 2018)
-# my_volt.battery.get_range()
-# print("\n")
-# my_volt.battery.upgrade_battery()
-#
-# my_volt.battery.get_range()
-#
-#
-#
-#
-# """
-# my_tesla = ElectricCar('tesla', 'model s', 2016)
-# my_tesla.battery.describe_battery()
-#
-# my_tesla.battery.get_range()
-# """
+print("Cars suck gass.")
